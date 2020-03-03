@@ -1,7 +1,6 @@
 .CajaGrande{
 	border: solid;
 	box-shadow: 0 0 0.5em #000;
-	margin-top: 
 }
 
 .Caja1{
@@ -65,5 +64,5 @@
 .cajita6{
 	background: Lavender;
 	height: 250px;
-	width: 25%;
+	width: 35%;
 }
